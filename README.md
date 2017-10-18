@@ -7,3 +7,4 @@ ToDo: implement cross validation, As soon as i have some spare time ;)
 # DataSet 
 Dataset used is CIFAR-10. Following is a sample from the dataset.
 
+![cifar10-sample]/cifar10-Sample.png
