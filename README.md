@@ -1,4 +1,4 @@
-# knn_classifier
+# KNN classifier
 This is a K nearest neighbor Classifier implementation in python.   
 L2 Eucledian distance measurement is used.
 
